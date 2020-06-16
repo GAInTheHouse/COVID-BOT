@@ -1,6 +1,6 @@
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                     COVID-BOT
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Do you know how many sanitation workers work in your nearest hospital? 
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         Don't you think its time we consider their safety too?
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;COVID-BOT
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Do you know how many sanitation workers work in your nearest hospital? 
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Don't you think its time we consider their safety too?
 
 ## Inspiration
 During the COVID-19 pandemic, it has been observed that health care workers saw a high infection rate. A majority of these workers are sanitization experts whose job was to disinfect the hospital beds, floors, utensils, etc. During these times, it is vital for those who have the power to help us snap out of this crisis to remain safe. This project is our plan to protect the lives of thousands of health care workers, their families, and the communities they reside in or come in contact with. 
