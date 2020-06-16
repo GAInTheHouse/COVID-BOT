@@ -29,5 +29,5 @@ The COVID Bot is only fully automated. However, to make it user friendly we aim 
 We aim to donate these bots, starting from our nearest hospitals to curb the contact the sanitation workers come in with the COVID-19 patients.
 
 ## Author: Gautam
-Project: https://devpost.com/software/covid-bot-9m8xh6
+Project: https://devpost.com/software/covid-bot-9m8xh6 <br>
 Video Demonstration: https://www.youtube.com/watch?v=r-efN4DgetM
